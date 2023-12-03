@@ -1,5 +1,20 @@
 # NBA_Visualizations
 
+<img width="1268" alt="image" src="https://github.com/dammyonanuga/NBA_Visualizations/assets/71757980/c289dc00-0e08-4ae4-bcba-c49ff2be840f">
+
+<img width="1258" alt="image" src="https://github.com/dammyonanuga/NBA_Visualizations/assets/71757980/6ee3062a-70fb-4986-9bb5-6ba913a28593">
+
+<img width="811" alt="image" src="https://github.com/dammyonanuga/NBA_Visualizations/assets/71757980/b338d0fd-58a7-4c05-88fe-3c28d0929b89">
+
+<img width="1096" alt="image" src="https://github.com/dammyonanuga/NBA_Visualizations/assets/71757980/78d710ab-4baf-4d5d-818e-66c2a79b872e">
+
+<img width="1140" alt="image" src="https://github.com/dammyonanuga/NBA_Visualizations/assets/71757980/3af32dc2-f9ed-4612-804f-fcfe87bdee89">
+
+<img width="984" alt="image" src="https://github.com/dammyonanuga/NBA_Visualizations/assets/71757980/33316cc3-7c7a-43f0-a0d5-2a8a0665d682">
+
+<img width="1000" alt="image" src="https://github.com/dammyonanuga/NBA_Visualizations/assets/71757980/f86b12e7-44c3-422d-9e74-a3bf739fd619">
+
+
 ## Overview
 
 This project focuses on scraping, parsing, and visualizing data from basketball-reference.com, a comprehensive database for NBA statistics. The primary objective is to extract meaningful insights and trends from player and team performance metrics using advanced data visualization techniques. This project is a part of the "big data visualization" initiative, harnessing the power of Python and its libraries to handle and present large datasets in an informative and aesthetically pleasing manner.
